@@ -14,7 +14,7 @@ function draw(){
     background(0);
 for(var i = 0; i < allMehBubbles.length; i++){
    allMehBubbles[i].display();
-   allMehBubbles[i].move();
+   allMehBubbles[i].move(); 
  
     }   
 }
